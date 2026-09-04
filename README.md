@@ -5,9 +5,9 @@
 **Simulate real CAN Bus protocol in C for automotive testing – complete with 8 ECUs, React dashboard, fuzzing, and anomaly detection.**  
 *Perfect for devs building embedded systems without expensive hardware.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/semyhist/CANBusSimulator?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/semyhist/CANBusSimulator)
-[![License](https://img.shields.io/github/license/semyhist/CANBusSimulator?style=for-the-badge&color=6366f1)](https://github.com/semyhist/CANBusSimulator/blob/main/LICENSE)
-[![Language](https://img.shields.io/badge/C-0891b2?style=for-the-badge&logo=c&logoColor=white)](https://github.com/semyhist/CANBusSimulator)
+[![GitHub Stars](https://img.shields.io/github/stars/semjhaydin/CANBusSimulator?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/semjhaydin/CANBusSimulator)
+[![License](https://img.shields.io/github/license/semjhaydin/CANBusSimulator?style=for-the-badge&color=6366f1)](https://github.com/semjhaydin/CANBusSimulator/blob/main/LICENSE)
+[![Language](https://img.shields.io/badge/C-0891b2?style=for-the-badge&logo=c&logoColor=white)](https://github.com/semjhaydin/CANBusSimulator)
 
 </div>
 
@@ -57,9 +57,9 @@ Whether you're prototyping ECUs, training ML models on CAN traffic, or hunting b
 
 <div align="center">
 
-[![C](https://img.shields.io/badge/C-0891b2?style=for-the-badge&logo=c&logoColor=white)](https://github.com/semyhist/CANBusSimulator)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/semyhist/CANBusSimulator)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/semyhist/CANBusSimulator)
+[![C](https://img.shields.io/badge/C-0891b2?style=for-the-badge&logo=c&logoColor=white)](https://github.com/semjhaydin/CANBusSimulator)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/semjhaydin/CANBusSimulator)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/semjhaydin/CANBusSimulator)
 
 </div>
 
@@ -77,7 +77,7 @@ Whether you're prototyping ECUs, training ML models on CAN traffic, or hunting b
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/semyhist/CANBusSimulator.git
+   git clone https://github.com/semjhaydin/CANBusSimulator.git
    cd CANBusSimulator
    ```
 
@@ -157,9 +157,9 @@ Love the project? Help make it even better!
 1. Fork the repo and create your branch (`git checkout -b feature/AmazingFeature`).
 2. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 3. Push to the branch (`git push origin feature/AmazingFeature`).
-4. Open a Pull Request – mention any related [issues](https://github.com/semyhist/CANBusSimulator/issues).
+4. Open a Pull Request – mention any related [issues](https://github.com/semjhaydin/CANBusSimulator/issues).
 
-> 🙌 Questions? Open an issue at [semyhist/CANBusSimulator/issues](https://github.com/semyhist/CANBusSimulator/issues).
+> 🙌 Questions? Open an issue at [semjhaydin/CANBusSimulator/issues](https://github.com/semjhaydin/CANBusSimulator/issues).
 
 ---
 
