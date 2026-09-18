@@ -15,7 +15,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#define ANOMALI_LOG  "../logs/anomali.log"
+#define ANOMALI_LOG  "logs/anomali.log"
 #define JSON_DOSYA   "dashboard/public/can_dashboard.json"
 #define ADIM_MS      100
 
